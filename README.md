@@ -1,22 +1,26 @@
 // my github
 
-3 years of JS,HTML,CSS and 1 year in python, The websites I make vary from Static to full back end and front end! I also have experience in the hacking community. Also created many malware sites and phishing pages that have been taken down. I've developed an amazing keymapping app called Wmapper which allows you to keymap in WSA and across windows.
+Hi! I'm Taimur, a sort-of computer geek that loves programming. With a background in programming for over 4 years, I find it fun making websites and applications and sharing them to the world.
 
-The current project that I'm working on is called Wmapper and you can check it out in my repositiories section, It allows you to Assign cords to keys (Keymap) across windows. Made it for the sole purpose of keymmaping in Microsoft's Windows Subsystem for Android.
+### lets talk about me?
 
-https://youtube.com/@urdadflip
+I'm currently studying in year 8 (IGCSE standard's) but that doesn't mean I don't have the programming knowledge. Infact I've joined lot's of web development classes, although I'm still learning game dev! My programming Journey has lead me to contributing some-what in Microsoft's WSA app, I made a keymapper for it.
 
-<!--
-**akbartaimurr/akbartaimurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside the world of tech and programming, I have more hobbies! I enjoy interior design or visualizing aesthetic rooms, possibly inspired by my mom, who is an amazing Interior Designer! You'll also often find me reading some of my favorite books like Percy Jackson.
 
-Here are some ideas to get you started:
+### Pride Projects 🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+WmapperKeymapper : A keymapping tool designed to let you keymap through out windows. Made for keymapping in Microsoft WSA (Windows Subsystem Android)
+https://github.com/akbartaimurr/wmapperkeymapper
+   
+AYT automater : A minimalistic youtube automater made in Python 3.12, User can generate a simple video using python. Made in under an hour
+https://github.com/akbartaimurr/aytautomater
+
+
+## Contact Me
+
+- **Email:** akbartaimurr@gmail.com (for buisness purposes)
+- **GitHub:** [my github](https://github.com/akbartaimurr)
+
+
+Thank you for taking the time to read about me. I'm excited to continue on the programming road path, and by taking your time to listen to me, you are supporting my journey ❤️
