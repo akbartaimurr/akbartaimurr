@@ -1,4 +1,10 @@
-### Hi there 👋
+// my github
+
+3 years of JS,HTML,CSS and 1 year in python, The websites I make vary from Static to full back end and front end! I also have experience in the hacking community. Also created many malware sites and phishing pages that have been taken down. I've developed an amazing keymapping app called Wmapper which allows you to keymap in WSA and across windows.
+
+The current project that I'm working on is called Wmapper and you can check it out in my repositiories section, It allows you to Assign cords to keys (Keymap) across windows. Made it for the sole purpose of keymmaping in Microsoft's Windows Subsystem for Android.
+
+https://youtube.com/@urdadflip
 
 <!--
 **akbartaimurr/akbartaimurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
