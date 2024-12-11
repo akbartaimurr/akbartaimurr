@@ -11,18 +11,19 @@
   <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="background: #1a1b26; padding: 10px; border-radius: 5px;">
-    <pre><code>npm install wmapper</code></pre>
-  </div>
-  <p>
-    <img src="https://github.com/user-attachments/assets/76facbef-caa4-4852-a1c1-055621b295e7" alt="Additional image" width="100">
-  </p>
-  <div style="background: #1a1b26; padding: 10px; border-radius: 5px;">
-    <pre><code>yarn add wmapper</code></pre>
-  </div>
-</div>
+<div align="center">
 
-Description of the project goes here.
+| Languages I Know 📌| My Stats |
+|------------------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> Python | ███████████ 95% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"> JavaScript | ██████████░ 90% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20"> C++ | █████░░░░░░ 50% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"> HTML/CSS | █████████░░ 80% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="20"> Godot | █████████░░ 80% |
+
+</div>
