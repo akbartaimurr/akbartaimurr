@@ -1,7 +1,7 @@
 # Project Title
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/154843c6-3a29-4877-89a8-9b7733800972" alt="Image description" width="450">
+  <img src="https://github.com/user-attachments/assets/5cbebc36-aaa9-4a9c-8888-67a9842ee735" alt="Image description" width="450">
 </p>
 
 <p align="center">
@@ -12,4 +12,3 @@
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
-
