@@ -25,3 +25,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="20"> Godot | █████████░░ 80% |
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f82fa2da-0515-4761-be87-06ffc061252b" alt="Additional image" width="900">
+</p>
