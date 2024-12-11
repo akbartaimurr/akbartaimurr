@@ -32,18 +32,16 @@
 
 <h2 align="center">🚀 𝓂𝓎 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈</h2>
 
+<!-- Previous content remains the same until the project description -->
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/31be1a53-ec92-48cd-97af-61e2d5bbc9cb" alt="Project Preview" width="900" style="border-radius: 10px;">
 
-  <p align="center" style="max-width: 600px; margin: 20px auto; direction: ltr; text-align:left;">
-    A sophisticated project that demonstrates the power of modern web technologies. Built with React and Node.js, 
-    this application showcases advanced features like real-time updates, seamless user experience, and robust backend integration.
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=green" alt="Node.js">
-    <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green" alt="MongoDB">
-  </p>
-
+  <div align="left" style="max-width: 800px; margin: 30px auto; padding: 20px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; border: 1px solid rgba(255, 255, 255, 0.1);">
+    <h3>✨ Overview</h3>
+    <p style="font-size: 16px; line-height: 1.6; color: rgba(255, 255, 255, 0.9);">
+      A project that aims to ease the feature of keymapping through out windows 10 and 11. Easily create keymaps for multiple windows
+      and games. Full working support with WSA and a community to share and download keymap configurations from.
+    </p>
+  </div>
 </div>
