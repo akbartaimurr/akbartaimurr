@@ -27,5 +27,23 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f82fa2da-0515-4761-be87-06ffc061252b" alt="Additional image" width="900">
+  <img src="https://github.com/user-attachments/assets/3ea5d59e-7ee9-43ed-9006-09e171974913" alt="Additional image" width="900">
 </p>
+
+<h2 align="center">🚀 𝓂𝓎 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈</h2>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/31be1a53-ec92-48cd-97af-61e2d5bbc9cb" alt="Project Preview" width="900" style="border-radius: 10px;">
+
+  <p align="center" style="max-width: 600px; margin: 20px auto; direction: ltr; text-align:left;">
+    A sophisticated project that demonstrates the power of modern web technologies. Built with React and Node.js, 
+    this application showcases advanced features like real-time updates, seamless user experience, and robust backend integration.
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=green" alt="Node.js">
+    <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green" alt="MongoDB">
+  </p>
+
+</div>
