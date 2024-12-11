@@ -1,5 +1,3 @@
-# Project Title
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5cbebc36-aaa9-4a9c-8888-67a9842ee735" alt="Image description" width="450">
 </p>
