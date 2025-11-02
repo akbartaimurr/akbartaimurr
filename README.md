@@ -16,13 +16,13 @@
 
 <div align="center">
 
-| Languages I Know 📌| My Stats |
+| Languages I Know 📌| |
 |------------------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> Python | ███████████ 95% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"> JavaScript | ██████████░ 90% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20"> C++ | █████░░░░░░ 50% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"> HTML/CSS | █████████░░ 80% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="20"> Godot | █████████░░ 80% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> Python |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"> JavaScript |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20"> React+NextJS |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"> HTML/CSS | |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="20"> Godot ||
 
 </div>
 
