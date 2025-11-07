@@ -42,5 +42,6 @@ _   _ ___     ___ __  __   _____  _    ___ __  __ _   _ ____
 
 <p><strong>Here's what I'm working on 🚀</strong></p>
 
-![git](https://github.com/user-attachments/assets/ab596b3d-c419-46df-90ce-5a6543ab9eb6)
+![git](https://github.com/user-attachments/assets/c8b8335d-d545-4e2c-81e5-3947befd3b22)
+
 
