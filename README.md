@@ -41,11 +41,13 @@ _   _ ___     ___ __  __   _____  _    ___ __  __ _   _ ____
 
 
 <p><strong>🚧 What I'm Working On</strong></p>
-<a href = "https://youtube.com">
+<a href = "https://github.com/akbartaimurr/notethetic-by-cognify">
 <table>
   <tr>
     <td>
+<a href = "https://github.com/akbartaimurr/notethetic-by-cognify">
       <img src="https://github.com/user-attachments/assets/c8b8335d-d545-4e2c-81e5-3947befd3b22" width="810">
+          </a>
     </td>
   </tr>
 </table>
