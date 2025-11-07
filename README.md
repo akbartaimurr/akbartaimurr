@@ -21,6 +21,20 @@ _   _ ___     ___ __  __   _____  _    ___ __  __ _   _ ____
   </a>
 </p>
 
+<br>
+
+<p><strong>👋 About Me</strong></p>
+
+<p>
+• 14 y/o learning web development<br>
+• Currently learning JavaScript<br>
+• Exploring machine learning with Python<br>
+• Year 10 student just trying to build cool stuff :)
+</p>
+
+<br>
+
+<p><strong>🛠️ What I Use</strong></p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
