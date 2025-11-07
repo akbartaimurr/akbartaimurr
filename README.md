@@ -40,8 +40,21 @@ _   _ ___     ___ __  __   _____  _    ___ __  __ _   _ ____
 </p>
 
 
-<p><strong>Here's what I'm working on 🚀</strong></p>
+<p><strong>🚧 What I'm Working On</strong></p>
 
-![git](https://github.com/user-attachments/assets/c8b8335d-d545-4e2c-81e5-3947befd3b22)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c8b8335d-d545-4e2c-81e5-3947befd3b22" width="650">
+    </td>
+    <td>
+      <p>
+      • Building a smart study planner web-app<br>
+      • Learning how to use APIs and backend logic<br>
+      • Improving UI/UX for a cleaner look<br>
+      • Trying to make everything actually *work* 💀
+      </p>
+    </td>
+  </tr>
+</table>
 
