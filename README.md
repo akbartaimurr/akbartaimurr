@@ -20,9 +20,7 @@ _   _ ___     ___ __  __   _____  _    ___ __  __ _   _ ____
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 <br>
-
 <p><strong>👋 About Me</strong></p>
 
 <p>
@@ -32,7 +30,7 @@ _   _ ___     ___ __  __   _____  _    ___ __  __ _   _ ____
 • Year 10 student just trying to build cool stuff :)
 </p>
 
-<br>
+
 
 <p><strong>🛠️ What I Use</strong></p>
 <p>
