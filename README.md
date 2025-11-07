@@ -45,15 +45,7 @@ _   _ ___     ___ __  __   _____  _    ___ __  __ _   _ ____
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/c8b8335d-d545-4e2c-81e5-3947befd3b22" width="650">
-    </td>
-    <td>
-      <p>
-      • Building a smart study planner web-app<br>
-      • Learning how to use APIs and backend logic<br>
-      • Improving UI/UX for a cleaner look<br>
-      • Trying to make everything actually *work* 💀
-      </p>
+      <img src="https://github.com/user-attachments/assets/c8b8335d-d545-4e2c-81e5-3947befd3b22" width="800">
     </td>
   </tr>
 </table>
