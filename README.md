@@ -21,9 +21,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-1C2330?style=for-the-badge&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2EA672?style=for-the-badge&logo=supabase&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
 
 <a href="https://fitgif.vercel.app">
